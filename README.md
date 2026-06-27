@@ -24,6 +24,24 @@ Identify frequently purchased product combinations.
 Generate association rules for product recommendations.
 Provide actionable insights for targeted marketing campaigns.
 
+Customer-Segmentation/
+│
+├── data/
+│     ├── customers.csv
+│
+├── notebooks/
+│     ├── Customer_Segmentation.ipynb
+│
+├── images/
+│     ├── elbow_method.png
+│     ├── customer_clusters.png
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── app.py (Optional Streamlit Application)
+
 📊 Dataset
 The dataset contains customer information such as:
 Customer ID
